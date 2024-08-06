@@ -1,13 +1,10 @@
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-👋 Hi, I’m Linsley Michira.
+👋🏿 Hi, I’m Linsley Michira (he/him).
 
-I'm a health care data analyst with a strong background in sales and marketing, and a passion for creating intuitive and accessible dashboards and reports. I'm proficient in using Excel (VLOOKUP), SQL (CTEs, JOINs), Tableau, Python (Pandas, matplotlib), and R to create intuitive and visualy appealing dashboards and reports. When I'm not working on data projects, I enjoy going for nature walks, volunteering at my local church, running a diaper pantry for moms in my area, and spending time with wife and kids.
+I'm a healthcare data analyst with a strong background in sales and marketing and a passion for creating intuitive and accessible dashboards and reports. I'm proficient in using Excel (VLOOKUP), SQL (CTEs, JOINs), Tableau, Python (Pandas, matplotlib), and R to create intuitive and visually appealing dashboards and reports.
+
+⚡ Fun fact: ...
+When not working on data projects, I enjoy going for nature walks, volunteering at my local church, running a diaper pantry for moms in my area, and spending time with my wife and kids.
 
 🧰 Skills
 
@@ -46,6 +43,14 @@ You can find more of my projects on my portfolio and in my GitHub repositories.
 
 Google Data Analytics Certficate -- Coursera, Received May 2022
 Bachelor of Science, Mathematics -- California State University, Chico, Received May 2012
+
+- 🌱 I’m currently learning ...
+
+
+- 👀 I’m interested in ...
+
+
+- 📫 How to reach me ...
 
 🔗 Links
 
