@@ -1,10 +1,9 @@
-
-**👋🏿 Hi, I’m Linsley Michira (he/him).
+👋🏿 **Hi, I’m Linsley Michira (he/him).
 **
 
 I'm a healthcare data analyst with a strong background in sales and marketing and a passion for creating intuitive and accessible dashboards and reports. I'm proficient in using Excel (VLOOKUP), SQL (CTEs, JOINs), Tableau, Python (Pandas, matplotlib), and R to create intuitive and visually appealing dashboards and reports. When not working on data projects, I enjoy going for nature walks, volunteering at my local church, running a diaper pantry for moms in my area, and spending time with my wife and kids.
 
-**🧰 Skills
+🧰 **Skills
 **
 
 **Mathematics**: Linear Algebra, Calculus, Statistics
@@ -15,7 +14,7 @@ I'm a healthcare data analyst with a strong background in sales and marketing an
 
 **Data Analytics**: Proficient in Python, R, SQL, and Tableau for data collection, transformation, and visualization
 
-**💼 Featured Projects
+💼 **Featured Projects
 **
 
 **HCAHPS Dashboard**: Created A Tableau dashboard that shows how satisfied patients are with their United States hospitals using Python to clean and analyze the HCAHP dataset, which examines over 3,000 hospitals
@@ -26,7 +25,7 @@ I'm a healthcare data analyst with a strong background in sales and marketing an
 
 You can find more projects in my portfolio and my GitHub repositories.
 
-**🎓 Education
+🎓 **Education
 **
 
 **Google Data Analytics Certificate** -- Coursera, May 2024
