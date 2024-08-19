@@ -10,21 +10,15 @@ I'm a healthcare data analyst with a strong background in sales and marketing an
 **Project Management**: Extensive experience with backward planning and task prioritization
 **Data Analytics**: Proficient in Python, R, SQL, and Tableau for data collection, transformation, and visualization
 
-Please visit my resume for more information on my skills and work experience.
+Visit my resume for more information on my skills and work experience.
 
 💼 Featured Projects
 
-Tenzies Dice Game - A clone of the popular dice game Tenzies [Demo, Repo]
-**Tools**: HTML, CSS, JavaScript, React
-Key takeaway: Using CSS Grid to display the dice dots
+**HCAHPS Dashboard**: Created A Tableau dashboard that shows how satisfied patients are with their United States hospitals using Python to clean and analyze the HCAHP dataset, which examines over 3,000 hospitals
 
-Restaurant Ordering App - A mobile ordering app for a restaurant capable of accepting payment information [Demo, Repo]
-**Tools**: HTML, CSS, JavaScript
-**Key Takeaway**: Using HTML data attributes to calculate user's order total for payment
+**ER Dashboard**: Created A Tableau dashboard that visualized a hospital’s emergency department’s patient dataset over 13 months by Analyzing patient demographics, wait time, satisfaction, and more
 
-Course Sign-up Form - A sign-up form for an online course with form validation for user input [Demo, Repo]
-**Tools**: HTML, CSS, JavaScript, React
-**Key Takeaway**: Using JavaScript to validate user-inputted data
+**Divvy Bikes**: Created a dashboard in Tableau with 8 visualizations of trends and found marketing opportunities by cleaning and analyzing over five million rows of raw data using SQL to find differences between two client segments
 
 You can find more projects in my portfolio and my GitHub repositories.
 
@@ -33,16 +27,12 @@ You can find more projects in my portfolio and my GitHub repositories.
 Google Data Analytics Certificate -- Coursera, May 2024
 Associates of Science, Data Analytics -- Ivy Tech Community College, Indianapolis, 2022 - 2024
 
-🔗 Links
-
-Email
-
-LinkedIn
-
-Portfolio
-
-Blog
-
+[📧 Email
+](linsleymichira@outlook.com)
+[👨🏿‍💼 LinkedIn
+](linkedin.com/in/linsley-michira)
+[🔗 Website
+](linsleymichira.com)
 
 <!---
 linsleymichira/linsleymichira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
