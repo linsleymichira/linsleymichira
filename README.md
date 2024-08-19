@@ -6,8 +6,11 @@ I'm a healthcare data analyst with a strong background in sales and marketing an
 🧰 Skills
 
 **Mathematics**: Linear Algebra, Calculus, Statistics
+
 **Communication**: Strong ability to communicate complex ideas in educational, entertaining, and inspiring narratives
+
 **Project Management**: Extensive experience with backward planning and task prioritization
+
 **Data Analytics**: Proficient in Python, R, SQL, and Tableau for data collection, transformation, and visualization
 
 Visit my resume for more information on my skills and work experience.
