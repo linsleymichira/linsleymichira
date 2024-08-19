@@ -29,8 +29,10 @@ Associates of Science, Data Analytics -- Ivy Tech Community College, Indianapoli
 
 [📧 Email
 ](linsleymichira@outlook.com)
+
 [👨🏿‍💼 LinkedIn
 ](linkedin.com/in/linsley-michira)
+
 [🔗 Website
 ](linsleymichira.com)
 
