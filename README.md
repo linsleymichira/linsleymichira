@@ -25,15 +25,16 @@ You can find more projects in my portfolio and my GitHub repositories.
 🎓 Education
 
 Google Data Analytics Certificate -- Coursera, May 2024
+
 Associates of Science, Data Analytics -- Ivy Tech Community College, Indianapolis, 2022 - 2024
 
-[📧 Email
+📧 [Email
 ](linsleymichira@outlook.com)
 
-[👨🏿‍💼 LinkedIn
+👨🏿‍💼 [LinkedIn
 ](linkedin.com/in/linsley-michira)
 
-[🔗 Website
+🔗 [Website
 ](linsleymichira.com)
 
 <!---
