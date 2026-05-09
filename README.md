@@ -1,43 +1,52 @@
-👋🏿 **Hi, I’m Linsley Michira (he/him).**
+👋🏿 **Hi, I'm Linsley Michira (he/him).**
 
-I'm an Associate People BI Analyst with a strong background in sales and marketing and a passion for creating intuitive and accessible dashboards and reports. I'm proficient in using Excel (VLOOKUP), SQL (CTEs, JOINs), Tableau, Python (Pandas, matplotlib), and R to create intuitive and visually appealing dashboards and reports. When not working on data projects, I enjoy going for nature walks, volunteering at my local church, and spending time with my wife and kids.
+I'm an Associate People BI Analyst at **JD North America (JDNA)**, the US operating arm of JD Sports Fashion plc, where I run production data pipelines on Google Cloud  Apache Airflow, dbt with Data Vault 2.0 modeling (AutomateDV), BigQuery  and deliver the BI layer on whichever stack each brand requires: Looker Studio Pro for our GCP-native brands and Microsoft Power BI for the brand-portfolio teams on the Microsoft stack. Stakeholders are People + Finance, across ~6,000 employees and 7 retail brands.
 
-🧰 **Skills**
+When I'm not building pipelines, I'm out on a nature walk, volunteering at my local church, or spending time with my wife and kids.
 
-**Mathematics**: Linear Algebra, Calculus, Statistics
+🧰 **Stack**
 
-**Communication**: Strong ability to communicate complex ideas in educational, entertaining, and inspiring narratives
+**Cloud & warehousing**: Google Cloud Platform · BigQuery · Google Cloud Storage
 
-**Project Management**: Extensive experience with backward planning and task prioritization
+**Modeling & orchestration**: dbt (Data Vault 2.0 via AutomateDV) · Apache Airflow · SCD Type 2 · dimensional modeling
 
-**Data Analytics**: Proficient in Python, R, SQL, and Tableau for data collection, transformation, and visualization
+**BI & reporting**: Looker Studio Pro · Microsoft Power BI · Tableau
 
-💼 **Featured Projects**
+**Languages**: SQL (advanced) · Python (production: Airflow DAGs, pandas, scikit-learn) · R
 
-**HCAHPS Dashboard**: Created A Tableau dashboard that shows how satisfied patients are with their United States hospitals using Python to clean and analyze the HCAHP dataset, which examines over 3,000 hospitals
+**HRIS / governance**: Workday RaaS · versioned config seeds · PR-reviewed thresholds · lineage docs
 
-**ER Dashboard**: Created A Tableau dashboard that visualized a hospital’s emergency department’s patient dataset over 13 months by Analyzing patient demographics, wait time, satisfaction, and more
+💼 **Featured Projects** *(public artifacts  synthetic / public data only; JDNA production work stays internal)*
 
-**Divvy Bikes**: Created a dashboard in Tableau with 8 visualizations of trends and found marketing opportunities by cleaning and analyzing over five million rows of raw data using SQL to find differences between two client segments
+🏗️ **`dv2-public-data-demo`** *(in development)*  Data Vault 2.0 reference implementation on a BigQuery public dataset using AutomateDV macros for hubs/links/satellites, with a sample business-vault layer and hosted dbt docs.
 
-You can find more projects in my portfolio and my GitHub repositories.
+📥 **`bls-ingestion-pipeline`** *(coming Q3 2026)*  End-to-end ingestion: BLS Current Employment Statistics API → GCS → BigQuery → dbt → Airflow. Schema-evolution handling, incremental loads, and Great Expectations validation.
+
+🏛️ **`capstone-data-platform`** *(coming Q4 2026)*  Enterprise-style platform on a public dataset with Data Vault modeling, lineage docs, and cost/performance notes.
+
+📊 **Earlier work** *(pre-JDNA, Tableau coursework era)*  HCAHPS hospital-satisfaction dashboard (3,000+ US hospitals), an emergency-department patient dashboard over 13 months, and a Divvy Bikes marketing-segmentation dashboard cleaning 5M+ rows in SQL. Real shipped artifacts that taught me visual design and SQL fundamentals before I moved to production pipelines.
 
 🎓 **Education**
 
-**Google Data Analytics Certificate** -- Coursera, May 2024
+**B.S. Data Science**  Indiana University Indianapolis (TSAP admit, Spring 2027 start)
 
-**Associates of Science, Data Analytics** -- Ivy Tech Community College, Indianapolis, 2022 - 2024
+**A.S. Computer Science**  Ivy Tech Community College (in progress, expected Fall 2026)
 
-📧 [Email
-](linsleymichira@outlook.com)
+**A.S. Data Analytics**  Ivy Tech Community College, 2022–2024 *`[Confirm before publishing]` see vault note migration plan*
 
-👨🏿‍💼 [LinkedIn
-](linkedin.com/in/linsley-michira)
+**Google Data Analytics Certificate**  Coursera, May 2024
 
-🔗 [Website
-](linsleymichira.com)
+🎯 **Looking for**
+
+Full-time **Analytics Engineer**, **BI Engineer**, or **Junior Data Engineer** roles in Indianapolis (hybrid/in-person) or remote. Stack overlap with BigQuery, dbt, Airflow, Power BI, or Looker is the fastest start.
+
+📧 [linsleymichira@outlook.com](mailto:linsleymichira@outlook.com)
+
+👨🏿‍💼 [LinkedIn](https://linkedin.com/in/linsley-michira)
+
+🔗 [linsleymichira.com](https://linsleymichira.com)
 
 <!---
 linsleymichira/linsleymichira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to see your changes.
 --->
