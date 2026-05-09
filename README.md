@@ -1,6 +1,6 @@
 👋🏿 **Hi, I'm Linsley Michira (he/him).**
 
-I'm an Associate People BI Analyst at **JD North America (JDNA)**, the US operating arm of JD Sports Fashion plc, where I run production data pipelines on Google Cloud  Apache Airflow, dbt with Data Vault 2.0 modeling (AutomateDV), BigQuery  and deliver the BI layer on whichever stack each brand requires: Looker Studio Pro for our GCP-native brands and Microsoft Power BI for the brand-portfolio teams on the Microsoft stack. Stakeholders are People + Finance, across ~6,000 employees and 7 retail brands.
+I'm an Associate People BI Analyst at **JD North America (JDNA)**, the US operating arm of JD Sports Fashion plc, where I run production data pipelines on Google Cloud  Apache Airflow, dbt with Data Vault 2.0 modeling (AutomateDV), BigQuery,  and deliver the BI layer on whichever stack each brand requires: Looker Studio Pro for our GCP-native brands and Microsoft Power BI for the brand-portfolio teams on the Microsoft stack. Stakeholders are People + Finance, across ~6,000 employees and 7 retail brands.
 
 When I'm not building pipelines, I'm out on a nature walk, volunteering at my local church, or spending time with my wife and kids.
 
@@ -28,11 +28,9 @@ When I'm not building pipelines, I'm out on a nature walk, volunteering at my lo
 
 🎓 **Education**
 
-**B.S. Data Science**  Indiana University Indianapolis (TSAP admit, Spring 2027 start)
+**B.S. Data Science**  Indiana University Indianapolis, 2025-2028 (TSAP)
 
-**A.S. Computer Science**  Ivy Tech Community College (in progress, expected Fall 2026)
-
-**A.S. Data Analytics**  Ivy Tech Community College, 2022–2024 *`[Confirm before publishing]` see vault note migration plan*
+**A.S. Computer Science**  Ivy Tech Community College, 2025-2026
 
 **Google Data Analytics Certificate**  Coursera, May 2024
 
