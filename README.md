@@ -1,6 +1,6 @@
 👋🏿 **Hi, I'm Linsley Michira (he/him).**
 
-I'm an Associate People BI Analyst at **JD North America (JDNA)**, the US operating arm of JD Sports Fashion plc, where I run production data pipelines on Google Cloud  Apache Airflow, dbt with Data Vault 2.0 modeling (AutomateDV), BigQuery,  and deliver the BI layer on whichever stack each brand requires: Looker Studio Pro for our GCP-native brands and Microsoft Power BI for the brand-portfolio teams on the Microsoft stack. Stakeholders are People + Finance, across ~6,000 employees and 7 retail brands.
+I'm a People Analytics & Automation Data Analyst at **JD North America (JDNA)**, the US operating arm of JD Sports Fashion plc, where I run production data pipelines on Google Cloud  Apache Airflow, dbt with Data Vault 2.0 modeling (AutomateDV), BigQuery,  and deliver the BI layer on whichever stack each brand requires: Looker Studio Pro for our GCP-native brands and Microsoft Power BI for the brand-portfolio teams on the Microsoft stack. Stakeholders are People + Finance, across ~6,000 employees and 7 retail brands.
 
 When I'm not building pipelines, I'm out on a nature walk, volunteering at my local church, or spending time with my wife and kids.
 
@@ -28,7 +28,7 @@ When I'm not building pipelines, I'm out on a nature walk, volunteering at my lo
 
 🎓 **Education**
 
-**B.S. Data Science**  Indiana University Indianapolis, 2025-2028 (TSAP)
+**B.S. Data Science**  Indiana University Indianapolis, 2027-2028 (TSAP admit, Spring 2027 start)
 
 **A.S. Computer Science**  Ivy Tech Community College, 2025-2026
 
@@ -41,8 +41,6 @@ Full-time **Analytics Engineer**, **BI Engineer**, or **Junior Data Engineer** r
 📧 [linsleymichira@outlook.com](mailto:linsleymichira@outlook.com)
 
 👨🏿‍💼 [LinkedIn](https://linkedin.com/in/linsley-michira)
-
-🔗 [linsleymichira.com](https://linsleymichira.com)
 
 <!---
 linsleymichira/linsleymichira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
